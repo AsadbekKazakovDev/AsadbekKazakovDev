@@ -66,6 +66,8 @@
    <a href="https://codeforces.com/profile/Asadbek_02/">
    <img src="https://codeforces.org/s/93420/images/codeforces-sponsored-by-ton.png" width="160px"></a>
 </div>
+
+[![AsadbekKazakovDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsadbekKazakovdev&show_icons=1&&theme=vue&hide_title=1&hide_border=1&border_radius=0)](https://github.com/AsadbekKazakovDev)
 <!---
 AsadbekKazakovDev/AsadbekKazakovDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
