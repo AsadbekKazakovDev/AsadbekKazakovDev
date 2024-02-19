@@ -5,8 +5,6 @@
 - 🌱 I’m currently learning Python Backend
 - 📫 How to reach me https://t.me/A_Kazakov_22 -->
 # 💫 About Me:
-
-<br>
 <br>👋 Hi, I’m <b>Asadbek Kazakov</b>
 <br>👀 I’m interested in <b>Problem Solving</b>
 <br>🌱 I’m currently learning <b>Python Backend</b>
