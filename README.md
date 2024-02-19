@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning Python Backend
 - 📫 How to reach me https://t.me/A_Kazakov_22 -->
 # 💫 About Me:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=150&lines=I'm+CSharp+developer;I'm+Python+Developer;)](#)
 <br>👋 Hi, I’m <b>Asadbek Kazakov</b>
 <br>👀 I’m interested in <b>Problem Solving</b>
 <br>🌱 I’m currently learning <b>Python Backend</b>
