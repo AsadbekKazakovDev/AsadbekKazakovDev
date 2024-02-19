@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Python Backend
 - 📫 How to reach me https://t.me/A_Kazakov_22 -->
 # 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=150&lines=I'm+Asadbek+Kazakov;I'm+Python+Developer;)](#)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=150&lines=I'm+Asadbek+Kazakov👋;I'm+Python+Developer👨‍💻;)](#)
 <br>👋 Hi, I’m <b>Asadbek Kazakov</b>
 <br>👀 I’m interested in <b>Problem Solving</b>
 <br>🌱 I’m currently learning <b>Python Backend</b>
@@ -68,6 +68,31 @@
 </div>
 
 [![AsadbekKazakovDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsadbekKazakovdev&show_icons=1&&theme=vue&hide_title=1&hide_border=1&border_radius=0)](https://github.com/AsadbekKazakovDev)
+
+<hr>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=AsadbekKazakovDev&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=AsadbekKazakovDev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsadbekKazakovDev&hide=c%23,css,html%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=AsadbekKazakovDev&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
+<hr>
+<h4 align="center">
+  <a href="https://github.com/AsadbekKazakovDev?tab=repositories" title="Show Repositories">🔎 Boshqa repositorylarni ko`rish 🔍</a>
+</h4>
 <!---
 AsadbekKazakovDev/AsadbekKazakovDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
