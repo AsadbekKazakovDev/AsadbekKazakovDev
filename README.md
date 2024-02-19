@@ -10,7 +10,6 @@
 <br>👋 Hi, I’m <b>Asadbek Kazakov</b>
 <br>👀 I’m interested in <b>Problem Solving</b>
 <br>🌱 I’m currently learning <b>Python Backend</b>
-<br>💞️ I’m looking to collaborate on <b>Codeacademiya</b>
 <br>📫 How to reach me <a href="https://t.me/A_Kazakov_22"><b>Telegram</b></a> or <a href="https://github.com/AsadbekKazakovDev"><b>GITHUB</b></a>
 <br><br>
 <p align="center">
