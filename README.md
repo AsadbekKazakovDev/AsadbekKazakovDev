@@ -21,16 +21,35 @@
 
 <a href=#><img src="snike.svg"></a>
 
-## Language and TOOLS
-
 ## 🌐 Socials:
-<a href="https://instagram.com/asadbek_kazakov_2"><img src="https://img.shields.io/badge/instagram-D1001F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://t.me/A_Kazakov_22"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://robocontest.uz/profile/asadbek_1"><img src="https://img.shields.io/badge/robocontest.uz-000?style=for-the-badge&logo=robocontest&logoColor=Blue"/></a>
-<a href="https://algo.ubtuit.uz/users/BIGINNER"><img src="https://img.shields.io/badge/algo.ubtuit.uz-000?style=for-the-badge&logo=algo.ubtuit.uz&logoColor=Blue"/></a>
-<a href="https://github.com/AsadbekKazakovDev"><img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.codewars.com/users/beginner_22/"><img src="https://img.shields.io/badge/codewars-DD915F?style=for-the-badge&logo=codewars&logoColor=white"/></a>
-<a href="https://www.sololearn.com/en/profile/21699491"><img src="https://img.shields.io/badge/sololearn-10397c?style=for-the-badge&logo=sololearn&logoColor=white"/></a>
+
+🪐 You can reach me via the following links:
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin: auto; width: fit-content">
+   <a href="https://t.me/A_Kazakov_22">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/640px-Telegram_logo.svg.png" width="30px" />
+   </a>
+   &nbsp;
+   <a href="https://leetcode.com/beginner_22/">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3628885-3030025.png" width="30px" />
+   </a>
+   &nbsp;
+   <a href="https://www.linkedin.com/in/asadbek-kazakov-a68281213/">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="30px" />
+   </a>
+   &nbsp;
+   <a href="https://github.com/AsadbekKazakovDev">
+      <img src="https://icon-library.com/images/github-icon/github-icon-1.jpg" width="30px" />
+   </a>
+   &nbsp;
+   <a href="https://www.instagram.com/asadbek_kazakov_2/">
+      <img src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-logo-png-full-colour-glyph.png" width="30px" />
+   </a>
+   &nbsp;
+   <a href="mailto:asadbekkazakov88@gmail.com">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="30px" />
+   </a>
+</div>
 <!---
 AsadbekKazakovDev/AsadbekKazakovDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
