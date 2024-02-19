@@ -3,6 +3,13 @@
 - 🌱 I’m currently learning Python Backend
 - 📫 How to reach me https://t.me/A_Kazakov_22
 
+# 🐍 snike 
+
+<a href=#><img src="snike.svg"></a>
+
+## Language and TOOLS
+
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,discord,flask,github,gitlab,heroku,html,instagram,js,jquery,linux,md,py,sass,vscode)](https://skillicons.dev)
 
 
 
