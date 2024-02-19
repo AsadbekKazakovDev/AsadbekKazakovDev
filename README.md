@@ -30,8 +30,8 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/640px-Telegram_logo.svg.png" width="30px" />
    </a>
    &nbsp;
-   <a href="https://leetcode.com/beginner_22/">
-      <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3628885-3030025.png" width="30px" />
+   <a href="https://www.instagram.com/asadbek_kazakov_2/">
+      <img src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-logo-png-full-colour-glyph.png" width="30px" />
    </a>
    &nbsp;
    <a href="https://www.linkedin.com/in/asadbek-kazakov-a68281213/">
@@ -42,13 +42,16 @@
       <img src="https://icon-library.com/images/github-icon/github-icon-1.jpg" width="30px" />
    </a>
    &nbsp;
-   <a href="https://www.instagram.com/asadbek_kazakov_2/">
-      <img src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-logo-png-full-colour-glyph.png" width="30px" />
-   </a>
-   &nbsp;
    <a href="mailto:asadbekkazakov88@gmail.com">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="30px" />
    </a>
+    &nbsp;
+   <a href="https://leetcode.com/beginner_22/">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3628885-3030025.png" width="30px" />
+   </a>
+   &nbsp;
+   <a href="https://www.codewars.com/users/beginner_22/">
+   <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" width="30px">
 </div>
 <!---
 AsadbekKazakovDev/AsadbekKazakovDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
