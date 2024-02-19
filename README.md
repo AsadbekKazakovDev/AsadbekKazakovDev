@@ -1,3 +1,6 @@
+
+<img align='right' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/gangnamtocat.png' width='300"'
+
 - 👋 Hi, I’m Asadbek Kazakov
 - 👀 I’m interested in problem solving
 - 🌱 I’m currently learning Python Backend
