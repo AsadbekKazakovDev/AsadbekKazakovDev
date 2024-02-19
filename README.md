@@ -39,7 +39,7 @@
    </a>
    &nbsp;
    <a href="https://github.com/AsadbekKazakovDev">
-      <img src="https://icon-library.com/images/github-icon/github-icon-1.jpg" width="30px" />
+      <img src="https://github.githubassets.com/assets/logo-051cf560a18d.svg" width="30px" />
    </a>
    &nbsp;
    <a href="mailto:asadbekkazakov88@gmail.com">
