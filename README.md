@@ -17,7 +17,7 @@
 <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 <br>
-<p align="center"><img align="center" src="https://www.atc.rs/wp-content/uploads/2022/04/haker.jpg"></p>
+<p align="center"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fhacking-mac-gaining-root-control-less-than-5-minutes-daren-klum&psig=AOvVaw2y0bWGE3ykPSybnXCgO-cR&ust=1708409528523000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCJ7NTftoQDFQAAAAAdAAAAABAF"></p>
 <br>
 <br>
 # 🐍 snike 
