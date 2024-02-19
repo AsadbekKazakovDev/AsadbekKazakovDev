@@ -12,9 +12,9 @@
 ## 🌐 Socials:
 <a href="https://instagram.com/mardon_s_m"><img src="https://img.shields.io/badge/instagram-D1001F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://github.com/Mardon1207"><img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://t.me/S_M_M_1207"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://www.codewars.com/users/Mardon03/"><img src="https://img.shields.io/badge/codewars-DD915F?style=for-the-badge&logo=codewars&logoColor=white"/></a>
-<a href="https://www.sololearn.com/profile/29215655"><img src="https://img.shields.io/badge/sololearn-10397c?style=for-the-badge&logo=sololearn&logoColor=white"/></a>
+<a href="https://t.me/A_Kazakov_22"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://www.codewars.com/users/beginner_22/"><img src="https://img.shields.io/badge/codewars-DD915F?style=for-the-badge&logo=codewars&logoColor=white"/></a>
+<a href="https://www.sololearn.com/en/profile/21699491"><img src="https://img.shields.io/badge/sololearn-10397c?style=for-the-badge&logo=sololearn&logoColor=white"/></a>
 
 
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,css,discord,flask,github,gitlab,heroku,html,instagram,js,jquery,linux,md,py,sass,vscode)](https://skillicons.dev)
