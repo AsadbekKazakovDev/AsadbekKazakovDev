@@ -51,7 +51,10 @@
    </a>
    &nbsp;
    <a href="https://www.codewars.com/users/beginner_22/">
-   <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" width="30px">
+   <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" width="30px"></a>
+   &nbsp;
+   <a href="https://codeforces.com/profile/Asadbek_02/">
+   <img src="https://codeforces.org/s/93420/images/codeforces-sponsored-by-ton.png" width="30px"></a>
 </div>
 <!---
 AsadbekKazakovDev/AsadbekKazakovDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
