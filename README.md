@@ -19,7 +19,7 @@
 <p align="center"><img align="center" src="Hacker-Thumb-a1.webp"></p>
 <br>
 <br>
-<p align="center"><img align="center" src="mns.png"></p>
+<p align="center"><img align="center" src="mns.jpg"></p>
 <br>
 # 🐍 snike 
 
