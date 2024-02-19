@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Python Backend
 - 📫 How to reach me https://t.me/A_Kazakov_22 -->
 # 💫 About Me:
-<img align='right' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/gangnamtocat.png' width='300"'>
+
 <br>
 <br>👋 Hi, I’m <b>Asadbek Kazakov</b>
 <br>👀 I’m interested in <b>Problem Solving</b>
