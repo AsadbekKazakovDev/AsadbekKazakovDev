@@ -53,6 +53,9 @@
    <a href="https://www.codewars.com/users/beginner_22/">
    <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" width="30px"></a>
    &nbsp;
+   <a href="https://algo.ubtuit.uz/users/BIGINNER/">
+   <img src="https://cdn-images-1.medium.com/max/1200/1*KS-a99V8vfVg6bsWOxCh4Q.png" width="30px"></a>
+   &nbsp;
    <a href="https://robocontest.uz/profile/asadbek_1/">
    <img src="https://robocontest.uz/assets/img/watermark.jpg" width="170px"></a>
    &nbsp;
