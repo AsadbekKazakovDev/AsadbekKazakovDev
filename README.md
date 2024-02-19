@@ -1,11 +1,25 @@
 
-<img align='right' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/gangnamtocat.png' width='300"'
 
-- 👋 Hi, I’m Asadbek Kazakov
+<!-- - 👋 Hi, I’m Asadbek Kazakov
 - 👀 I’m interested in problem solving
 - 🌱 I’m currently learning Python Backend
-- 📫 How to reach me https://t.me/A_Kazakov_22
-
+- 📫 How to reach me https://t.me/A_Kazakov_22 -->
+# 💫 About Me:
+<img align='right' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/gangnamtocat.png' width='300"'>
+<br>
+<br>👋 Hi, I’m <b>Asadbek Kazakov</b>
+<br>👀 I’m interested in <b>Problem Solving</b>
+<br>🌱 I’m currently learning <b>Python Backend</b>
+<br>💞️ I’m looking to collaborate on <b>Codeacademiya</b>
+<br>📫 How to reach me <a href="https://t.me/A_Kazakov_22"><b>Telegram</b></a> or <a href="https://github.com/AsadbekKazakovDev"><b>GITHUB</b></a>
+<br><br>
+<p align="center">
+<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p>
+<br>
+<p align="center"><img align="center" src="https://www.atc.rs/wp-content/uploads/2022/04/haker.jpg"></p>
+<br>
+<br>
 # 🐍 snike 
 
 <a href=#><img src="snike.svg"></a>
