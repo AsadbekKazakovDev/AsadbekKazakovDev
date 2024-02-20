@@ -40,7 +40,7 @@
    </a>
     &nbsp;
    <a href="https://vscode.dev/">
-      <img src="https://code.visualstudio.com/assets/images/Hundreds-of-Extensions.png" width="30px" />
+      <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="30px" />
    </a>
    &nbsp;
    <a href="https://github.com/AsadbekKazakovDev">
