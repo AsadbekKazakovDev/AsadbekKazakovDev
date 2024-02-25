@@ -81,7 +81,7 @@
 </div>
 <br><br><br>
 
-[CodeWars](https://www.codewars.com/users/beginner_22/badges/large)
+![CodeWars](https://www.codewars.com/users/beginner_22/badges/large)
 <br><br>
 <hr>
 <p align=center>
