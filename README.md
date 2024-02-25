@@ -14,6 +14,8 @@
 <p align="center">
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
+
+[![CodeWars](https://www.codewars.com/users/beginner_22/badges/large)(https://www.codewars.com/users/beginner_22)]
 <br>
 <p align="center"> 
   Visitors count<br>
@@ -79,9 +81,7 @@
    <a href="https://codeforces.com/profile/Asadbek_02/">
    <img src="https://codeforces.org/s/93420/images/codeforces-sponsored-by-ton.png" width="160px"></a>
 </div>
-
-[![CodeWars](https://www.codewars.com/users/beginner_22/badges/large])(https://www.codewars.com/users/beginner_22)
-
+<br><br>
 <hr>
 <p align=center>
   <div align=center>
