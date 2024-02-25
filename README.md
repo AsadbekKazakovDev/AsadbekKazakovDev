@@ -15,6 +15,11 @@
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 <br>
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/ikromyusuf/count.svg" />
+</p>
+
 <br>
 <p align="center"><img align="center" src="mns.jpg"></p>
 <br>
