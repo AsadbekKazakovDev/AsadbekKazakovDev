@@ -79,8 +79,9 @@
    <a href="https://codeforces.com/profile/Asadbek_02/">
    <img src="https://codeforces.org/s/93420/images/codeforces-sponsored-by-ton.png" width="160px"></a>
 </div>
+<br><br><br>
 
-[![CodeWars](https://www.codewars.com/users/beginner_22/badges/large)]
+[CodeWars](https://www.codewars.com/users/beginner_22/badges/large)
 <br><br>
 <hr>
 <p align=center>
