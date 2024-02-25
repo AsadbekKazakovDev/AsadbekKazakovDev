@@ -84,7 +84,9 @@
 ![CodeWars](https://www.codewars.com/users/beginner_22/badges/large)
 <br><br>
 
-![Robocontest](https://robocontest.uz/profile/asadbek_1/rewind/2023)
+<br>
+<p align="center"><img align="center" src="https://robocontest.uz/profile/asadbek_1/rewind/2023"></p>
+<br>
 <br><br>
 <hr>
 <p align=center>
