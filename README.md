@@ -85,7 +85,7 @@
 <br><br>
 
 <br>
-<p align="center"><img align="center" src="https://robocontest.uz/profile/asadbek_1/rewind/2023"></p>
+<p align="center"><img align="center" src="rewind.jpg"></p>
 <br>
 <br><br>
 <hr>
