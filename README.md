@@ -84,11 +84,7 @@
 ![CodeWars](https://www.codewars.com/users/beginner_22/badges/large)
 <br><br>
 
-<br>
-<p align="center"><img align="center" src="mncf.png"></p>
-<br>
-<p align="center"><img align="center" src="mnbj.png"></p>
-<br>
+
 <p align="center"><img align="center" src="rewind.jpg"></p>
 <br>
 <br><br>
