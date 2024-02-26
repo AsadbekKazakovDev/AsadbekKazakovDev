@@ -85,9 +85,11 @@
 <br><br>
 
 <br>
+<p align="center"><img align="center" src="mncf.png"></p>
+<br>
+<p align="center"><img align="center" src="mnbj.png"></p>
+<br>
 <p align="center"><img align="center" src="rewind.jpg"></p>
-<p align="center"><img align="center" src="mncf.png">
-<p align="center"><img align="center" src="mnbj.png"></p></p>
 <br>
 <br><br>
 <hr>
