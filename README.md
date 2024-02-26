@@ -86,6 +86,8 @@
 
 <br>
 <p align="center"><img align="center" src="rewind.jpg"></p>
+<p align="right"><img align="right" src="mncf.png">
+<p align="left"><img align="left" src="mnbj.png"></p></p>
 <br>
 <br><br>
 <hr>
