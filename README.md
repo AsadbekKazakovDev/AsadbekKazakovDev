@@ -9,7 +9,7 @@
 <br>👋 Hi, I’m <b>Asadbek Kazakov</b>
 <br>👀 I’m interested in <b>C++ and Python Problem Solving</b>
 <br>🌱 I’m currently learning <b>Python Backend</b>
-<br>📫 How to reach me <a href="https://t.me/A_Kazakov_22"><b>Telegram</b></a> or <a href="https://github.com/AsadbekKazakovDev"><b>GITHUB</b></a>
+<br>📫 How to reach me <a href="https://t.me/ZMU_ATM"><b>Telegram</b></a> or <a href="https://github.com/AsadbekKazakovDev"><b>GITHUB</b></a>
 <br><br>
 <p align="center">
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
